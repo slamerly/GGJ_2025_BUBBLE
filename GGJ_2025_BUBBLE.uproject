@@ -256,6 +256,10 @@
 		{
 			"Name": "WorldPartitionHLODUtilities",
 			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
